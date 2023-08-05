@@ -1,0 +1,47 @@
+.loginPage{
+
+  background-color: rgba(13, 187, 86 , 0.1);
+    height: 450px;
+    padding: 20px;
+    width: 400px;
+    align-Self: center;
+    align-items: center;
+    margin-Top: 60px;
+    margin-left: 430px;
+    transition: all .3s;
+   
+}
+.account{
+  text-align: center;
+  margin-top: 10px;
+  
+}
+
+.loginheader{
+  text-align: center;
+  font-weight: bold;
+  
+  }
+
+.title{
+   
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+} 
+
+
+.form{
+  margin-top: 30px;
+ 
+  justify-content: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.formGroup{
+    margin-top: 15px;
+    
+}
+.errorMessage{
+  color: red;
+  margin-left: 20px;
+}
