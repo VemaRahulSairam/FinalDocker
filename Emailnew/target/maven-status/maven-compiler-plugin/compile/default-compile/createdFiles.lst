@@ -1,0 +1,6 @@
+com\example\demo\services\KafkaConsumerService.class
+com\example\demo\services\KafkaProducerService.class
+com\example\demo\controller\KafkaProducerController.class
+com\example\demo\model\Email.class
+com\example\demo\EmailnewApplication.class
+com\example\demo\services\EmailSenderService.class
